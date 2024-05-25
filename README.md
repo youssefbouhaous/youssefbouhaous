@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm BOUHAOUS Youssef</h1>
 <h3 align="center">Hassania IT Club President | Software Engineering Student | EHTP-Casablanca | Competitive Programmer</h3>
 
-- 📫 How to reach me **youssefbouhaous01@gmail.com**
-
-- 📄 Know about my experiences [https://youssefbouhaous.tech/BOUHAOUS_YOUSSEF.pdf](https://youssefbouhaous.tech/BOUHAOUS_YOUSSEF.pdf)
-
+- 📫 How to reach me **youssefbouhaous01@gmail.com** **+212 6 08 39 74 91**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/youssef-bouhaous-22152124b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-bouhaous-22152124b/" height="30" width="40" /></a>
