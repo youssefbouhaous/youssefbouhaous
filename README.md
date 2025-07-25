@@ -21,8 +21,8 @@
 ```javascript
 const youssef = {
     education: {
-        current: "Software Engineering @ EHTP-Casablanca (2022-2025)",
         previous: [
+            "Software Engineer @ EHTP-Casablanca (2022-2025)",
             "Preparatory Classes MP @ Lycée Mohammed 6 Kénitra (2020-2022)",
             "Baccalaureate Mathematics B with Highest Honors (2020)"
         ]
