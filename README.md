@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=3F91F7&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8E%93+Software+Engineer;%F0%9F%91%91+Ex-President+of+Hassania+IT+Club;%F0%9F%8F%86+Competitive+Programmer;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%BB+Tech+Enthusiast)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/youssef-bouhaous/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/youssefbouh2/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:youssefbouhaous01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
