@@ -106,7 +106,7 @@ const youssef = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=youssefbouhaous&custom_title=Youssef's%20Activity%20Graph&hide_border=true&theme=react-dark)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
